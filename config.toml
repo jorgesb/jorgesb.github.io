@@ -1,3 +1,15 @@
-baseURL = "http://example.org/"
+baseURL = "jorgesb.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Jorge Sapena Boza"
+
+enableEmoji = true
+
+[markup]
+
+  [markup.tableOfContents]
+  startLevel = 2.0
+  endLevel = 6.0
+  ordered = false
+
+[params]
+gitRepo = "https://github.com/hugo-toha/hugo-toha.github.io"

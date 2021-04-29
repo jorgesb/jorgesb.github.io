@@ -1,0 +1,18 @@
+# Copyright Notice
+copyright: © 2021 Copyright.
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Jorge Sapena personal website - Software Engineer, APIs, PHP, Symfony
+
+customMenus:
+- name: Notes
+  url: https://hossainemruz.gitbook.io/notes/
+
+logo:
+  main: images/main-logo.png
+  inverted: images/inverted-logo.png
+  favicon: images/favicon.png
+
+# GitHub repo URL of your site
+gitRepo: https://github.com/jorgesb/jorgesb.github.io
+
